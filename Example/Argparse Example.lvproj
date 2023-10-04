@@ -25,12 +25,9 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Get Typed Argument.vim" Type="VI" URL="../LV-Argparse/LV Argument Parser/Get Typed Argument.vim"/>
-			<Item Name="Get.vi" Type="VI" URL="../LV-Argparse/LV Argument Parser/Get.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="LV Argument Parser.lvclass" Type="LVClass" URL="../LV-Argparse/LV Argument Parser/LV Argument Parser.lvclass"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
